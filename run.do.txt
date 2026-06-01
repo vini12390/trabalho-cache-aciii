@@ -1,0 +1,10 @@
+vlib work
+
+vlog cache_controller.sv
+vlog tb_cache_controller.sv
+
+vsim tb_cache_controller
+
+add wave *
+
+run -all
