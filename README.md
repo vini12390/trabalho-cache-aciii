@@ -98,7 +98,8 @@ RESULTADO FINAL: 20 PASS | 0 FAIL
 
 ## Integrantes
 
-- (Adicionar nomes do grupo)
+Vinícius Figueiredo
+Gustavo Vinícius
 
 ---
 
